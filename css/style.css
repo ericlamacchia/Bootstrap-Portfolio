@@ -23,3 +23,11 @@ body , html {
    line-height: 40px; /* Vertically center the text there */
 }
 
+.pimage {
+    max-width: 70%;
+    height: auto;
+}
+
+.buffy {
+    margin-top: 20px;
+}
